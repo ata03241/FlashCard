@@ -1,0 +1,14 @@
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\bin\Debug\net8.0\bigproject.exe
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\bin\Debug\net8.0\bigproject.deps.json
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\bin\Debug\net8.0\bigproject.runtimeconfig.json
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\bin\Debug\net8.0\bigproject.dll
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\bin\Debug\net8.0\bigproject.pdb
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.AssemblyInfoInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.AssemblyInfo.cs
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.dll
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\refint\bigproject.dll
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.pdb
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\bigproject.genruntimeconfig.cache
+C:\Users\pakhr\OneDrive\Desktop\firstBIgProject\bigproject\obj\Debug\net8.0\ref\bigproject.dll
